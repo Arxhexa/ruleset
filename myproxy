@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN-SUFFIX,m-api.nexon.com
+  - DOMAIN-SUFFIX,bluearchive.nexon.com
+  - DOMAIN-SUFFIX,signin.nexon.com
+  - DOMAIN-SUFFIX,public.api.nexon.com
+  - DOMAIN-SUFFIX,baapi.nexon.com
+  - DOMAIN-SUFFIX,production-game-api.sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,hanime1.me
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,1point3acres.com
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,anthropic
