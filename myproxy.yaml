@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,signin.nexon.com
   - DOMAIN-SUFFIX,public.api.nexon.com
   - DOMAIN-SUFFIX,baapi.nexon.com
+  - DOMAIN-SUFFIX,ba.dn.nexoncdn.co.kr
   - DOMAIN-SUFFIX,production-game-api.sekai.colorfulpalette.org
   - DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org
   - DOMAIN-SUFFIX,steamcommunity.com
