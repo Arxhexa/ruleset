@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,baapi.nexon.com
   - DOMAIN-SUFFIX,ba.dn.nexoncdn.co.kr
   - DOMAIN-SUFFIX,production-game-api.sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,x.com
