@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,m-api.nexon.com
+  - DOMAIN-SUFFIX,jp.livelog.nexon.com
   - DOMAIN-SUFFIX,bluearchive.nexon.com
   - DOMAIN-SUFFIX,signin.nexon.com
   - DOMAIN-SUFFIX,public.api.nexon.com
