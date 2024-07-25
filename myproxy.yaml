@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,m-api.nexon.com
+  - DOMAIN-SUFFIX,public.api.nexon.com
   - DOMAIN-SUFFIX,production-game-api.sekai.colorfulpalette.org
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,game-version.sekai.colorfulpalette.org
