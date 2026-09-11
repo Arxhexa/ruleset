@@ -4,5 +4,4 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,missav.com
-  - DOMAIN-KEYWORD,claude
-  - DOMAIN-KEYWORD,anthropic
+  - DOMAIN-SUFFIX,cloudfront.net
