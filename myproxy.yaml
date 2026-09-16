@@ -1,6 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,nexon
-  - DOMAIN-KEYWORD,steam
-  - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,hanime1.me
-  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
