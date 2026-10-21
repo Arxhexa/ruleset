@@ -3,5 +3,6 @@ payload:
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,sagernet.org
+  - DOMAIN-SUFFIX,jable.tv
   - DST-PORT,5000
   - DST-PORT,5100
