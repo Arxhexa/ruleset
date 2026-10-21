@@ -4,5 +4,6 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,mushroomtrack.com
   - DST-PORT,5000
   - DST-PORT,5100
