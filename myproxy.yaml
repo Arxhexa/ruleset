@@ -5,6 +5,4 @@ payload:
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,mushroomtrack.com
-  - DOMAIN-SUFFIX,amazonaws.com
-  - DST-PORT,5000
-  - DST-PORT,5100
+  - PROCESS-NAME,BlueArchive.exe
